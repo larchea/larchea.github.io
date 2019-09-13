@@ -1,4 +1,6 @@
 baseURL = "https://larchea.github.io"
+RelativeURLs = "true"
+CanonifyURLs = "true"
 languageCode = "en-us"
 title = "Hugo Grayscale Theme"
 theme = "hugograyscale"
