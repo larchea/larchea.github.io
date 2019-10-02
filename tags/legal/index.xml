@@ -1,42 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>J. Osborn&#39;s Page</title>
-    <link>larchea.github.io/</link>
-    <description>Recent content on J. Osborn&#39;s Page</description>
+    <title>legal on J. Osborn&#39;s Page</title>
+    <link>larchea.github.io/tags/legal/</link>
+    <description>Recent content in legal on J. Osborn&#39;s Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Sep 2019 13:28:59 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2019 13:17:16 -0500</lastBuildDate>
     
-	<atom:link href="larchea.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="larchea.github.io/tags/legal/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Attributions</title>
-      <link>larchea.github.io/post/attributions/</link>
-      <pubDate>Mon, 23 Sep 2019 13:28:59 -0500</pubDate>
-      
-      <guid>larchea.github.io/post/attributions/</guid>
-      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Portfolio</title>
-      <link>larchea.github.io/post/portfolio/</link>
-      <pubDate>Mon, 23 Sep 2019 13:28:44 -0500</pubDate>
-      
-      <guid>larchea.github.io/post/portfolio/</guid>
-      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Resume</title>
-      <link>larchea.github.io/post/resume/</link>
-      <pubDate>Mon, 23 Sep 2019 13:28:38 -0500</pubDate>
-      
-      <guid>larchea.github.io/post/resume/</guid>
-      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
-    </item>
     
     <item>
       <title>Disclaimer</title>
@@ -87,38 +60,6 @@ Justin Osborn, Southfork Rd., Gurdon AR 71743
 Liability for Content
 Than We are service providers for own content on these pages responsible under the general laws. we are as However, service providers are not obligated to transmit or store third-party information to monitor or investigate circumstances that are unlawful .
 Obligations to remove or block the use of information the general laws remain unaffected. However, there is a liability in this regard only possible from the moment of knowledge of a specific infringement.</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with AMP</title>
-      <link>larchea.github.io/post/getting-started/</link>
-      <pubDate>Thu, 31 May 2018 07:11:59 +0700</pubDate>
-      
-      <guid>larchea.github.io/post/getting-started/</guid>
-      <description>Getting started with AMP Implement these key steps to get up and running with AMP:
- Create your AMP pages Validate your AMP pages Make your content discoverable  Using AMP day-to-day Keep your AMP momentum going with all the resources AMP has to offer.
-Create your AMP pages See the relevant sections below for: using a CMS, starting from scratch, or converting existing content</description>
-    </item>
-    
-    <item>
-      <title>Cover Post Example</title>
-      <link>larchea.github.io/post/cover-example/</link>
-      <pubDate>Mon, 28 May 2018 14:09:24 +0700</pubDate>
-      
-      <guid>larchea.github.io/post/cover-example/</guid>
-      <description>Cover post example Cover post example</description>
-    </item>
-    
-    <item>
-      <title>Getting Started With Hugo</title>
-      <link>larchea.github.io/post/hugo-getting-started/</link>
-      <pubDate>Mon, 28 May 2018 13:22:14 +0700</pubDate>
-      
-      <guid>larchea.github.io/post/hugo-getting-started/</guid>
-      <description>Step 1: Install Hugo brew install hugo  To verify your new install:
-hugo version  Step 2: Create a New Site hugo new site quickstart  The above will create a new Hugo site in a folder named quickstart.
-Step 3: Add a Theme See themes.gohugo.io for a list of themes to consider. This quickstart uses the beautiful Ananke theme.
-cd quickstart;\ git init;\ git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke;\ # Edit your config.</description>
     </item>
     
   </channel>
