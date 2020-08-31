@@ -6,10 +6,19 @@
     <description>Recent content in Posts on J. Osborn&#39;s Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Mar 2020 22:48:22 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2020 15:20:26 -0500</lastBuildDate>
     
 	<atom:link href="larchea.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Xfce4/Xorg Fun</title>
+      <link>larchea.github.io/post/xorgfun/</link>
+      <pubDate>Mon, 31 Aug 2020 15:20:26 -0500</pubDate>
+      
+      <guid>larchea.github.io/post/xorgfun/</guid>
+      <description>&lt;p&gt;Moving from Xfce4 to LxQt to i3 made for an interesting week.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Recording Station</title>
