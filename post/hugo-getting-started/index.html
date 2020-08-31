@@ -20,27 +20,27 @@
   
   
   <meta name="author" content="Justin Osborn" />
-  <meta name="description" content="Step 1: Install Hugo brew install hugo  To verify your new install:
-hugo version  Step 2: Create a New Site hugo new site quickstart  The above will create a new Hugo site in a folder named quickstart.
+  <meta name="description" content="Step 1: Install Hugo brew install hugo To verify your new install:
+hugo version Step 2: Create a New Site hugo new site quickstart The above will create a new Hugo site in a folder named quickstart.
 Step 3: Add a Theme See themes.gohugo.io for a list of themes to consider. This quickstart uses the beautiful Ananke theme.
-cd quickstart;\ git init;\ git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke;\ # Edit your config.">
+cd quickstart;\ git init;\ git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke;\  # Edit your config.">
 
   
   
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@gohugoio" />
     <meta name="twitter:title" content="Getting Started With Hugo" />
-    <meta name="twitter:description" content="Step 1: Install Hugo brew install hugo  To verify your new install:
-hugo version  Step 2: Create a New Site hugo new site quickstart  The above will create a new Hugo site in a folder named quickstart.
+    <meta name="twitter:description" content="Step 1: Install Hugo brew install hugo To verify your new install:
+hugo version Step 2: Create a New Site hugo new site quickstart The above will create a new Hugo site in a folder named quickstart.
 Step 3: Add a Theme See themes.gohugo.io for a list of themes to consider. This quickstart uses the beautiful Ananke theme.
-cd quickstart;\ git init;\ git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke;\ # Edit your config." />
+cd quickstart;\ git init;\ git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke;\  # Edit your config." />
     <meta name="twitter:image" content="/img/avatar.jpg" />
   
 
 
 
 
-<meta name="generator" content="Hugo 0.58.3" />
+<meta name="generator" content="Hugo 0.74.3" />
 
 
 <link rel="canonical" href="larchea.github.io/post/hugo-getting-started/">
@@ -259,45 +259,25 @@ cd quickstart;\ git init;\ git submodule add https://github.com/budparr/gohugo-t
     </header>
     
 
-    <article class="post-content">
-
-<h2 id="step-1-install-hugo">Step 1: Install Hugo</h2>
-
-<pre><code class="language-bash">brew install hugo
-</code></pre>
-
-<p>To verify your new install:</p>
-
-<pre><code class="language-bash">hugo version
-</code></pre>
-
-<h2 id="step-2-create-a-new-site">Step 2: Create a New Site</h2>
-
-<pre><code class="language-bash">hugo new site quickstart
-</code></pre>
-
-<p>The above will create a new Hugo site in a folder named <code>quickstart</code>.</p>
-
+    <article class="post-content"><h2 id="step-1-install-hugo">Step 1: Install Hugo</h2>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">brew install hugo
+</code></pre></div><p>To verify your new install:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">hugo version
+</code></pre></div><h2 id="step-2-create-a-new-site">Step 2: Create a New Site</h2>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">hugo new site quickstart
+</code></pre></div><p>The above will create a new Hugo site in a folder named <code>quickstart</code>.</p>
 <h2 id="step-3-add-a-theme">Step 3: Add a Theme</h2>
-
 <p>See <a href="https://themes.gohugo.io/">themes.gohugo.io</a> for a list of themes to consider. This quickstart uses the beautiful <a href="https://themes.gohugo.io/gohugo-theme-ananke/">Ananke theme</a>.</p>
-
-<pre><code class="language-bash">cd quickstart;\
-git init;\
-git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke;\
-
-# Edit your config.toml configuration file
-# and add the Ananke theme.
-echo 'theme = &quot;ananke&quot;' &gt;&gt; config.toml
-</code></pre>
-
-<h2 id="step-4-add-some-content">Step 4: Add Some Content</h2>
-
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">cd quickstart;<span style="color:#ae81ff">\
+</span><span style="color:#ae81ff"></span>git init;<span style="color:#ae81ff">\
+</span><span style="color:#ae81ff"></span>git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke;<span style="color:#ae81ff">\
+</span><span style="color:#ae81ff"></span>
+<span style="color:#75715e"># Edit your config.toml configuration file</span>
+<span style="color:#75715e"># and add the Ananke theme.</span>
+echo <span style="color:#e6db74">&#39;theme = &#34;ananke&#34;&#39;</span> &gt;&gt; config.toml
+</code></pre></div><h2 id="step-4-add-some-content">Step 4: Add Some Content</h2>
 <pre><code>hugo new posts/my-first-post.md
-</code></pre>
-
-<p>Edit the newly created content file if you want. Now, start the Hugo server with <a href="/getting-started/usage/#draft-future-and-expired-content">drafts</a> enabled:</p>
-
+</code></pre><p>Edit the newly created content file if you want. Now, start the Hugo server with <a href="/getting-started/usage/#draft-future-and-expired-content">drafts</a> enabled:</p>
 <pre><code>▶ hugo server -D
 
 Started building sites ...
@@ -316,30 +296,18 @@ Watching for changes in /Users/bep/sites/quickstart/{data,content,layouts,static
 Serving pages from memory
 Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
 Press Ctrl+C to stop
-</code></pre>
-
-<p><strong>Navigate to your new site at <a href="http://localhost:1313/">http://localhost:1313/</a>.</strong></p>
-
+</code></pre><p><strong>Navigate to your new site at <a href="http://localhost:1313/">http://localhost:1313/</a>.</strong></p>
 <h2 id="step-5-customize-the-theme">Step 5: Customize the Theme</h2>
-
 <p>Your new site already looks great, but you will want to tweak it a little before you release it to the public.</p>
-
 <h3 id="site-configuration">Site Configuration</h3>
-
 <p>Open up <code>config.toml</code> in a text editor:</p>
-
 <pre><code>baseURL = &quot;https://example.org/&quot;
 languageCode = &quot;en-us&quot;
 title = &quot;My New Hugo Site&quot;
 theme = &quot;ananke&quot;
-</code></pre>
-
-<p>Replace the <code>title</code> above with something more personal. Also, if you already have a domain ready, set the <code>baseURL</code>. Note that this value is not needed when running the local development server.</p>
-
+</code></pre><p>Replace the <code>title</code> above with something more personal. Also, if you already have a domain ready, set the <code>baseURL</code>. Note that this value is not needed when running the local development server.</p>
 <p><strong>Tip:</strong> Make the changes to the site configuration or any other file in your site while the Hugo server is running, and you will see the changes in the browser right away.</p>
-
 <p>For theme specific configuration options, see the <a href="https://github.com/budparr/gohugo-theme-ananke">theme site</a>.</p>
-
 <p><strong>For further theme customization, see <a href="/themes/customizing/">Customize a Theme</a>.</strong></p>
 </article>
     <footer class="post-footer">
@@ -364,7 +332,7 @@ theme = &quot;ananke&quot;
   </section>
 
     <footer class="footer">
-  <p>Copyright © 2018-2019 J. Osborn&#39;s Page</p>
+  <p>Copyright © 2018-2020 J. Osborn&#39;s Page</p>
   <p>Powered by <a href="https://gohugo.io/" target="_blank">Hugo</a> with theme <a href="https://github.com/huyb1991/hugo-lamp" title="Hugo LAMP" target="_blank">LAMP</a>.</p>
 </footer>
 

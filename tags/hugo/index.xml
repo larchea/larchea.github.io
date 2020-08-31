@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hugo on J. Osborn&#39;s Page</title>
@@ -17,10 +17,10 @@
       <pubDate>Mon, 28 May 2018 13:22:14 +0700</pubDate>
       
       <guid>larchea.github.io/post/hugo-getting-started/</guid>
-      <description>Step 1: Install Hugo brew install hugo  To verify your new install:
-hugo version  Step 2: Create a New Site hugo new site quickstart  The above will create a new Hugo site in a folder named quickstart.
+      <description>Step 1: Install Hugo brew install hugo To verify your new install:
+hugo version Step 2: Create a New Site hugo new site quickstart The above will create a new Hugo site in a folder named quickstart.
 Step 3: Add a Theme See themes.gohugo.io for a list of themes to consider. This quickstart uses the beautiful Ananke theme.
-cd quickstart;\ git init;\ git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke;\ # Edit your config.</description>
+cd quickstart;\ git init;\ git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke;\  # Edit your config.</description>
     </item>
     
   </channel>

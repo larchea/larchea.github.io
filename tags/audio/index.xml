@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Audio on J. Osborn&#39;s Page</title>
+    <link>larchea.github.io/tags/audio/</link>
+    <description>Recent content in Audio on J. Osborn&#39;s Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Mar 2020 22:48:22 -0500</lastBuildDate>
+    
+	<atom:link href="larchea.github.io/tags/audio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Recording Station</title>
+      <link>larchea.github.io/post/recordingstation/</link>
+      <pubDate>Wed, 11 Mar 2020 22:48:22 -0500</pubDate>
+      
+      <guid>larchea.github.io/post/recordingstation/</guid>
+      <description>&lt;p&gt;Something I&amp;rsquo;ve striven to complete in setting up fully is my audio workstation. Completing such a task in the small space which I have was an interesting challenge, but so far, I&amp;rsquo;ve been able to pull it off with moderate ease.&lt;/p&gt;
+&lt;p&gt;A simplistic list of what this station consists of is below, with a more exhaustive list below that.&lt;/p&gt;
+&lt;h1 id=&#34;hardware&#34;&gt;Hardware:&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;Mixer: Yamaha MG16/4
+Interface: Stereo 1/4&amp;quot; converted to Stereo 1/8&amp;quot; to Line-In on motherboard
+Recording Platforms: Arch Linux (JACK2, Audacity), Realistic Stereo Tape-Deck (Manufactured by Hitachi)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Interfacing into this are several instruments and microphones, which, as of writing, are as follows:&lt;/p&gt;
+&lt;h1 id=&#34;guitar&#34;&gt;Guitar:&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;2015 Epiphone Les Paul PRO Standard 1958 Replica (Vintage Sunburst)
+1976 CONN Dreadnaught
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1 id=&#34;synth&#34;&gt;Synth:&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;1999 Alesis QS 6.1
+Moog Sub Phatty
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1 id=&#34;organ&#34;&gt;Organ:&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;1974 CONN Theatherette 552 (Re-Capped)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1 id=&#34;mics&#34;&gt;Mics:&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;Electro-Voice MG/4
+MXL 990
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
