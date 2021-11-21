@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>website on Home Site of Larchea/Zurkin _</title>
+    <link>http://larchea.github.io/tags/website/</link>
+    <description>Recent content in website on Home Site of Larchea/Zurkin _</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2021. All rights reserved.</copyright>
+    <lastBuildDate>Sat, 20 Nov 2021 18:50:30 -0600</lastBuildDate><atom:link href="http://larchea.github.io/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Website Transfer Hop</title>
+      <link>http://larchea.github.io/post/webpageswitch/</link>
+      <pubDate>Sat, 20 Nov 2021 18:50:30 -0600</pubDate>
+      
+      <guid>http://larchea.github.io/post/webpageswitch/</guid>
+      <description>&lt;p&gt;With the old site broken on its links, it was time to swap out with a simpler, more understandable theme in Hugo. and MIT.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
