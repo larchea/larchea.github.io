@@ -1,26 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hugo on J. Osborn&#39;s Page</title>
-    <link>larchea.github.io/tags/hugo/</link>
-    <description>Recent content in hugo on J. Osborn&#39;s Page</description>
+    <title>hugo on Home Site of Larchea/Zurkin _</title>
+    <link>http://larchea.github.io/tags/hugo/</link>
+    <description>Recent content in hugo on Home Site of Larchea/Zurkin _</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 May 2018 13:22:14 +0700</lastBuildDate>
-    
-	<atom:link href="larchea.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>&amp;copy; 2021. All rights reserved.</copyright>
+    <lastBuildDate>Sat, 20 Nov 2021 18:50:30 -0600</lastBuildDate><atom:link href="http://larchea.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Getting Started With Hugo</title>
-      <link>larchea.github.io/post/hugo-getting-started/</link>
-      <pubDate>Mon, 28 May 2018 13:22:14 +0700</pubDate>
+      <title>Website Transfer Hop</title>
+      <link>http://larchea.github.io/post/webpageswitch/</link>
+      <pubDate>Sat, 20 Nov 2021 18:50:30 -0600</pubDate>
       
-      <guid>larchea.github.io/post/hugo-getting-started/</guid>
-      <description>Step 1: Install Hugo brew install hugo To verify your new install:
-hugo version Step 2: Create a New Site hugo new site quickstart The above will create a new Hugo site in a folder named quickstart.
-Step 3: Add a Theme See themes.gohugo.io for a list of themes to consider. This quickstart uses the beautiful Ananke theme.
-cd quickstart;\ git init;\ git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke;\  # Edit your config.</description>
+      <guid>http://larchea.github.io/post/webpageswitch/</guid>
+      <description>&lt;p&gt;With the old site broken on its links, it was time to swap out with a simpler, more understandable theme in Hugo. and MIT.&lt;/p&gt;</description>
     </item>
     
   </channel>

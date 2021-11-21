@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Xfce4 on J. Osborn&#39;s Page</title>
-    <link>larchea.github.io/tags/xfce4/</link>
-    <description>Recent content in Xfce4 on J. Osborn&#39;s Page</description>
+    <title>Xfce4 on Home Site of Larchea/Zurkin _</title>
+    <link>http://larchea.github.io/tags/xfce4/</link>
+    <description>Recent content in Xfce4 on Home Site of Larchea/Zurkin _</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Aug 2020 15:20:26 -0500</lastBuildDate>
-    
-	<atom:link href="larchea.github.io/tags/xfce4/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>&amp;copy; 2021. All rights reserved.</copyright>
+    <lastBuildDate>Mon, 31 Aug 2020 15:20:26 -0500</lastBuildDate><atom:link href="http://larchea.github.io/tags/xfce4/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Xfce4/Xorg Fun</title>
-      <link>larchea.github.io/post/xorgfun/</link>
+      <link>http://larchea.github.io/post/xorgfun/</link>
       <pubDate>Mon, 31 Aug 2020 15:20:26 -0500</pubDate>
       
-      <guid>larchea.github.io/post/xorgfun/</guid>
+      <guid>http://larchea.github.io/post/xorgfun/</guid>
       <description>&lt;p&gt;Moving from Xfce4 to LxQt to i3 made for an interesting week.&lt;/p&gt;</description>
     </item>
     

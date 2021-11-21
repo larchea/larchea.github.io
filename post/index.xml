@@ -1,164 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on J. Osborn&#39;s Page</title>
-    <link>larchea.github.io/post/</link>
-    <description>Recent content in Posts on J. Osborn&#39;s Page</description>
+    <title>Posts on Home Site of Larchea/Zurkin _</title>
+    <link>http://larchea.github.io/post/</link>
+    <description>Recent content in Posts on Home Site of Larchea/Zurkin _</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Aug 2020 15:20:26 -0500</lastBuildDate>
+    <copyright>&amp;copy; 2021. All rights reserved.</copyright>
+    <lastBuildDate>Sat, 20 Nov 2021 18:50:30 -0600</lastBuildDate><atom:link href="http://larchea.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Website Transfer Hop</title>
+      <link>http://larchea.github.io/post/webpageswitch/</link>
+      <pubDate>Sat, 20 Nov 2021 18:50:30 -0600</pubDate>
+      
+      <guid>http://larchea.github.io/post/webpageswitch/</guid>
+      <description>&lt;p&gt;With the old site broken on its links, it was time to swap out with a simpler, more understandable theme in Hugo. and MIT.&lt;/p&gt;</description>
+    </item>
     
-	<atom:link href="larchea.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>Droidcam and Other Commands</title>
+      <link>http://larchea.github.io/post/droidcam-and-other-commands/</link>
+      <pubDate>Sat, 30 Jan 2021 11:47:25 -0600</pubDate>
+      
+      <guid>http://larchea.github.io/post/droidcam-and-other-commands/</guid>
+      <description>&lt;p&gt;Things that I&amp;rsquo;ve had to use in these modern CoVid-19 times.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Xfce4/Xorg Fun</title>
-      <link>larchea.github.io/post/xorgfun/</link>
+      <link>http://larchea.github.io/post/xorgfun/</link>
       <pubDate>Mon, 31 Aug 2020 15:20:26 -0500</pubDate>
       
-      <guid>larchea.github.io/post/xorgfun/</guid>
+      <guid>http://larchea.github.io/post/xorgfun/</guid>
       <description>&lt;p&gt;Moving from Xfce4 to LxQt to i3 made for an interesting week.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Recording Station</title>
-      <link>larchea.github.io/post/recordingstation/</link>
+      <link>http://larchea.github.io/post/recordingstation/</link>
       <pubDate>Wed, 11 Mar 2020 22:48:22 -0500</pubDate>
       
-      <guid>larchea.github.io/post/recordingstation/</guid>
-      <description>&lt;p&gt;Something I&amp;rsquo;ve striven to complete in setting up fully is my audio workstation. Completing such a task in the small space which I have was an interesting challenge, but so far, I&amp;rsquo;ve been able to pull it off with moderate ease.&lt;/p&gt;
-&lt;p&gt;A simplistic list of what this station consists of is below, with a more exhaustive list below that.&lt;/p&gt;
-&lt;h1 id=&#34;hardware&#34;&gt;Hardware:&lt;/h1&gt;
-&lt;pre&gt;&lt;code&gt;Mixer: Yamaha MG16/4
-Interface: Stereo 1/4&amp;quot; converted to Stereo 1/8&amp;quot; to Line-In on motherboard
-Recording Platforms: Arch Linux (JACK2, Audacity), Realistic Stereo Tape-Deck (Manufactured by Hitachi)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Interfacing into this are several instruments and microphones, which, as of writing, are as follows:&lt;/p&gt;
-&lt;h1 id=&#34;guitar&#34;&gt;Guitar:&lt;/h1&gt;
-&lt;pre&gt;&lt;code&gt;2015 Epiphone Les Paul PRO Standard 1958 Replica (Vintage Sunburst)
-1976 CONN Dreadnaught
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h1 id=&#34;synth&#34;&gt;Synth:&lt;/h1&gt;
-&lt;pre&gt;&lt;code&gt;1999 Alesis QS 6.1
-Moog Sub Phatty
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h1 id=&#34;organ&#34;&gt;Organ:&lt;/h1&gt;
-&lt;pre&gt;&lt;code&gt;1974 CONN Theatherette 552 (Re-Capped)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h1 id=&#34;mics&#34;&gt;Mics:&lt;/h1&gt;
-&lt;pre&gt;&lt;code&gt;Electro-Voice MG/4
-MXL 990
-&lt;/code&gt;&lt;/pre&gt;</description>
-    </item>
-    
-    <item>
-      <title>Attributions</title>
-      <link>larchea.github.io/post/attributions/</link>
-      <pubDate>Mon, 23 Sep 2019 13:28:59 -0500</pubDate>
-      
-      <guid>larchea.github.io/post/attributions/</guid>
-      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Portfolio</title>
-      <link>larchea.github.io/post/portfolio/</link>
-      <pubDate>Mon, 23 Sep 2019 13:28:44 -0500</pubDate>
-      
-      <guid>larchea.github.io/post/portfolio/</guid>
-      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Resume</title>
-      <link>larchea.github.io/post/resume/</link>
-      <pubDate>Mon, 23 Sep 2019 13:28:38 -0500</pubDate>
-      
-      <guid>larchea.github.io/post/resume/</guid>
-      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Disclaimer</title>
-      <link>larchea.github.io/post/law_disclaimer/</link>
-      <pubDate>Mon, 23 Sep 2019 13:17:16 -0500</pubDate>
-      
-      <guid>larchea.github.io/post/law_disclaimer/</guid>
-      <description>Disclaimer of Warranties and Limitation of Liability
-This website and all information, content, materials, and other services made available to you through the website are provided by Justin Osborn on an &amp;lsquo;&amp;lsquo;as is&amp;rsquo;&#39; basis. Justin Osborn makes no representations or warranties of any kind, express or implied.
-Justin Osborn does not warrant that the website is free of viruses or other harmful components. Justin Osborn will not be liable for any damages of any kind arising from the use of any service, or from any information, content, materials, or other services made available to you through the website, including, but not limited to direct, indirect, incidental, punitive, and consequential (including loss of profits) damages.</description>
-    </item>
-    
-    <item>
-      <title>Terms And Service</title>
-      <link>larchea.github.io/post/law_termsandservice/</link>
-      <pubDate>Mon, 23 Sep 2019 13:16:36 -0500</pubDate>
-      
-      <guid>larchea.github.io/post/law_termsandservice/</guid>
-      <description>Last update: September 30, 2019.
-Please read these Terms and Conditions (&amp;lsquo;&amp;lsquo;Terms&amp;rsquo;&amp;rsquo;, &amp;lsquo;&amp;lsquo;Terms and Conditions&amp;rsquo;&#39;) carefully before using the https://larchea.github.io website (the &amp;lsquo;&amp;lsquo;Service&amp;rsquo;&#39;) operated by Justin Osborn (&amp;lsquo;&amp;lsquo;us&amp;rsquo;&amp;rsquo;, &amp;lsquo;&amp;lsquo;we&amp;rsquo;&amp;rsquo;, or &amp;lsquo;&amp;lsquo;our&amp;rsquo;&#39;).
-Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service.
-By accessing or using the Service you agree to be bound by these Terms.</description>
-    </item>
-    
-    <item>
-      <title>Privacy</title>
-      <link>larchea.github.io/post/law_privacy/</link>
-      <pubDate>Mon, 23 Sep 2019 13:15:10 -0500</pubDate>
-      
-      <guid>larchea.github.io/post/law_privacy/</guid>
-      <description>Privacy Policy for Justin Osborn
-Effective date: September 30, 2019.
-Justin Osborn (&amp;lsquo;&amp;lsquo;us&amp;rsquo;&amp;rsquo;, &amp;lsquo;&amp;lsquo;we&amp;rsquo;&amp;rsquo;, or &amp;lsquo;&amp;lsquo;our&amp;rsquo;&#39;) operates the https://larchea.github.io website (the &amp;lsquo;&amp;lsquo;Service&amp;rsquo;&#39;).
-This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. This Privacy Policy for Jeniffer Clarke - Economist and Marketer is powered by TermsFeed.
-We use your data to provide and improve the Service.</description>
-    </item>
-    
-    <item>
-      <title>Imprint</title>
-      <link>larchea.github.io/post/law_imprint/</link>
-      <pubDate>Mon, 23 Sep 2019 12:26:45 -0500</pubDate>
-      
-      <guid>larchea.github.io/post/law_imprint/</guid>
-      <description>Justin Osborn
-Contact:
-E-Mail: jlarche@protonmail.ch
-Justin Osborn, Southfork Rd., Gurdon AR 71743
-Liability for Content
-Than We are service providers for own content on these pages responsible under the general laws. we are as However, service providers are not obligated to transmit or store third-party information to monitor or investigate circumstances that are unlawful .
-Obligations to remove or block the use of information the general laws remain unaffected. However, there is a liability in this regard only possible from the moment of knowledge of a specific infringement.</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with AMP</title>
-      <link>larchea.github.io/post/getting-started/</link>
-      <pubDate>Thu, 31 May 2018 07:11:59 +0700</pubDate>
-      
-      <guid>larchea.github.io/post/getting-started/</guid>
-      <description>Getting started with AMP Implement these key steps to get up and running with AMP:
- Create your AMP pages Validate your AMP pages Make your content discoverable  Using AMP day-to-day Keep your AMP momentum going with all the resources AMP has to offer.
-Create your AMP pages See the relevant sections below for: using a CMS, starting from scratch, or converting existing content</description>
-    </item>
-    
-    <item>
-      <title>Cover Post Example</title>
-      <link>larchea.github.io/post/cover-example/</link>
-      <pubDate>Mon, 28 May 2018 14:09:24 +0700</pubDate>
-      
-      <guid>larchea.github.io/post/cover-example/</guid>
-      <description>Cover post example Cover post example</description>
-    </item>
-    
-    <item>
-      <title>Getting Started With Hugo</title>
-      <link>larchea.github.io/post/hugo-getting-started/</link>
-      <pubDate>Mon, 28 May 2018 13:22:14 +0700</pubDate>
-      
-      <guid>larchea.github.io/post/hugo-getting-started/</guid>
-      <description>Step 1: Install Hugo brew install hugo To verify your new install:
-hugo version Step 2: Create a New Site hugo new site quickstart The above will create a new Hugo site in a folder named quickstart.
-Step 3: Add a Theme See themes.gohugo.io for a list of themes to consider. This quickstart uses the beautiful Ananke theme.
-cd quickstart;\ git init;\ git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke;\  # Edit your config.</description>
+      <guid>http://larchea.github.io/post/recordingstation/</guid>
+      <description>&lt;p&gt;Something I&amp;rsquo;ve striven to complete in setting up fully is my audio workstation. Completing such a task in the small space which I have was an interesting challenge, but so far, I&amp;rsquo;ve been able to pull it off with moderate ease.&lt;/p&gt;</description>
     </item>
     
   </channel>
